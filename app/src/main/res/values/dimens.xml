@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Spacing -->
+
+    <dimen name="spacing_primary_8">8dp</dimen>
+    <dimen name="spacing_primary_16">16dp</dimen>
+    <dimen name="spacing_primary_24">24dp</dimen>
+    <dimen name="spacing_primary_32">32dp</dimen>
+    <dimen name="spacing_primary_40">40dp</dimen>
+    <dimen name="spacing_primary_48">48dp</dimen>
+    <dimen name="spacing_primary_56">56dp</dimen>
+    <dimen name="spacing_primary_64">64dp</dimen>
+
+    <dimen name="spacing_secondary_4">4dp</dimen>
+    <dimen name="spacing_secondary_12">12dp</dimen>
+    <dimen name="spacing_secondary_20">20dp</dimen>
+    <dimen name="spacing_secondary_28">28dp</dimen>
+    <dimen name="spacing_secondary_36">36dp</dimen>
+    <dimen name="spacing_secondary_44">44dp</dimen>
+    <dimen name="spacing_secondary_52">52dp</dimen>
+
+    <!-- Text sizes -->
+
+    <dimen name="text_size_title1">32sp</dimen>
+    <dimen name="text_size_title2">22sp</dimen>
+    <dimen name="text_size_title3">18sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_regular">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_micro">10sp</dimen>
+
+    <dimen name="text_size_heading">48sp</dimen>
+    <dimen name="text_size_heading_large">56sp</dimen>
+
+</resources>

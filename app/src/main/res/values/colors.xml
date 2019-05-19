@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Primary -->
+    <color name="carored">#D2232A</color>
+    <color name="midblue">#33A0E8</color>
+    <color name="lightblue">#CCEDFF</color>
+
+    <!-- Secondary -->
+    <color name="darkred">#9F0F12</color>
+    <color name="darkblue">#2984C0</color>
+
+    <!-- Sub-colors -->
+    <color name="green">#66B550</color>
+    <color name="yellow">#FFDB61</color>
+    <color name="orange">#FF9C1A</color>
+
+    <!-- Shades of Grey -->
+    <color name="blkgrey">#262629</color>
+    <color name="darkgrey">#4B4D52</color>
+    <color name="midgrey">#8F939C</color>
+    <color name="lightgrey">#C9CED6</color>
+    <color name="bggrey">#EDF0F7</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Opacity -->
+    <color name="carored_alpha80">#CCD2232A</color>
+    <color name="carored_alpha60">#99D2232A</color>
+    <color name="carored_alpha40">#66D2232A</color>
+    <color name="carored_alpha20">#33D2232A</color>
+
+    <color name="midblue_alpha80">#CC33A0E8</color>
+    <color name="midblue_alpha60">#9933A0E8</color>
+    <color name="midblue_alpha40">#6633A0E8</color>
+    <color name="midblue_alpha20">#3333A0E8</color>
+
+    <color name="lightblue_alpha80">#CCCCEDFF</color>
+    <color name="lightblue_alpha60">#99CCEDFF</color>
+    <color name="lightblue_alpha40">#66CCEDFF</color>
+    <color name="lightblue_alpha20">#33CCEDFF</color>
+
+    <color name="darkred_alpha80">#CC9F0F12</color>
+    <color name="darkred_alpha60">#999F0F12</color>
+    <color name="darkred_alpha40">#669F0F12</color>
+    <color name="darkred_alpha20">#339F0F12</color>
+
+    <color name="darkblue_alpha80">#CC2984C0</color>
+    <color name="darkblue_alpha60">#992984C0</color>
+    <color name="darkblue_alpha40">#662984C0</color>
+    <color name="darkblue_alpha20">#332984C0</color>
+
+    <color name="green_alpha80">#CC66B550</color>
+    <color name="green_alpha60">#9966B550</color>
+    <color name="green_alpha40">#6666B550</color>
+    <color name="green_alpha20">#3366B550</color>
+
+    <color name="yellow_alpha80">#CCFFDB61</color>
+    <color name="yellow_alpha60">#99FFDB61</color>
+    <color name="yellow_alpha40">#66FFDB61</color>
+    <color name="yellow_alpha20">#33FFDB61</color>
+
+    <color name="orange_alpha80">#CCFF9C1A</color>
+    <color name="orange_alpha60">#99FF9C1A</color>
+    <color name="orange_alpha40">#66FF9C1A</color>
+    <color name="orange_alpha20">#33FF9C1A</color>
+
+    <color name="blkgrey_alpha80">#CC262629</color>
+    <color name="blkgrey_alpha60">#99262629</color>
+    <color name="blkgrey_alpha40">#66262629</color>
+    <color name="blkgrey_alpha20">#33262629</color>
+
+    <color name="darkgrey_alpha80">#CC4B4D52</color>
+    <color name="darkgrey_alpha60">#994B4D52</color>
+    <color name="darkgrey_alpha40">#664B4D52</color>
+    <color name="darkgrey_alpha20">#334B4D52</color>
+
+    <color name="midgrey_alpha80">#CC8F939C</color>
+    <color name="midgrey_alpha60">#998F939C</color>
+    <color name="midgrey_alpha40">#668F939C</color>
+    <color name="midgrey_alpha20">#338F939C</color>
+
+    <color name="lightgrey_alpha80">#CCC9CED6</color>
+    <color name="lightgrey_alpha60">#99C9CED6</color>
+    <color name="lightgrey_alpha40">#66C9CED6</color>
+    <color name="lightgrey_alpha20">#33C9CED6</color>
+
+    <color name="bggrey_alpha80">#CCEDF0F7</color>
+    <color name="bggrey_alpha60">#99EDF0F7</color>
+    <color name="bggrey_alpha40">#66EDF0F7</color>
+    <color name="bggrey_alpha20">#33EDF0F7</color>
+
+    <color name="white_alpha80">#CCFFFFFF</color>
+    <color name="white_alpha60">#99FFFFFF</color>
+    <color name="white_alpha40">#66FFFFFF</color>
+    <color name="white_alpha20">#33FFFFFF</color>
+
+</resources>
